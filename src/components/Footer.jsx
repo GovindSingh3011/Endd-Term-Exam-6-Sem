@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="flex items-center mb-4 md:mb-0">
             <CalendarDays className="h-6 w-6 mr-2" />
-            <span className="text-xl font-bold">EventHub</span>
+            <span className="text-xl font-bold">Eventra</span>
           </div>
           
           <div className="flex flex-col md:flex-row items-center space-y-2 md:space-y-0 md:space-x-6">

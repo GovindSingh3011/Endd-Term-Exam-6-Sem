@@ -25,7 +25,7 @@ const Navbar = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2 text-xl font-bold">
             <CalendarDays className="h-6 w-6" />
-            <span>EventHub</span>
+            <span>Eventra</span>
           </Link>
           
           {/* Desktop Navigation */}
